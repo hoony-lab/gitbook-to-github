@@ -1,4 +1,0 @@
-# Service-Guide
-
-Here are the articles in this section:[DBMS](https://paastaguide.gitbook.io/paas-ta-5-5-0/guide-5.5.0-semini/service-guide/dbms)[NoSQL](https://paastaguide.gitbook.io/paas-ta-5-5-0/guide-5.5.0-semini/service-guide/nosql)[Monitoring](https://paastaguide.gitbook.io/paas-ta-5-5-0/guide-5.5.0-semini/service-guide/monitoring)[Storage](https://paastaguide.gitbook.io/paas-ta-5-5-0/guide-5.5.0-semini/service-guide/storage)[MessageQueue](https://paastaguide.gitbook.io/paas-ta-5-5-0/guide-5.5.0-semini/service-guide/messagequeue)[WEB IDE](https://paastaguide.gitbook.io/paas-ta-5-5-0/guide-5.5.0-semini/service-guide/webide)[ETC](https://paastaguide.gitbook.io/paas-ta-5-5-0/guide-5.5.0-semini/service-guide/etc)[Tools](https://paastaguide.gitbook.io/paas-ta-5-5-0/guide-5.5.0-semini/service-guide/tools)
-
