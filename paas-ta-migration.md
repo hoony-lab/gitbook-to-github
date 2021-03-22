@@ -2,8 +2,7 @@
 
 ### Table of Contents <a id="table-of-contents"></a>
 
-1. 2. 
-## 1. 문서 개요 <a id="1"></a>
+1. 1. **1. 문서 개요**
 
 ### 1.1. 목적 <a id="1-1"></a>
 
