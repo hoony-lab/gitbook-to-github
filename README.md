@@ -5,6 +5,24 @@
 * 왜 깃북과 깃헙은 바로바로 연동이 되지 않고 지금까지 수정하지 않았을까 😂
 * 이미지도 이상해, 버젼 관리도 안돼,,,
 
+\*\*\* 1
+
+\*\*\*\*\* 2
+
+\*\*\*\*\*\* 3
+
+--- 4
+
+----- 5
+
+------ 6
+
+\_\_\_ 7
+
+\_\_\_\_\_ 8
+
+\_\_\_\_\_\_ 9
+
 ## 깃헙 &gt; 깃북 연동시 파일/경로 순서가 이상하다
 
 * 처음부터 손봐야 할 것 같다
@@ -22,7 +40,11 @@
 
  **rich-content** 와 **rich-text** 라고 하는데 ~~내가 부자였으면 좋겠다.~~ 두 가지를 살펴 보자.
 
+
+
 ------
+
+
 
 ### 1. [command palette](https://docs.gitbook.com/editing-content/rich-content/with-command-palette)
 
@@ -32,7 +54,11 @@
 
 ![](.gitbook/assets/assets_-ljqes59tx3tzs90rqcl_-lreeufd9zenr1rzuwov_-lref-32qcka04sxpcmd_image-block.gif)
 
+
+
 ------
+
+
 
 ### 2. [insert palette](https://docs.gitbook.com/editing-content/rich-content/with-insert-palette)
 
@@ -55,7 +81,11 @@
 
 ![](.gitbook/assets/assets_-ljqes59tx3tzs90rqcl_-lrezu7opjmjynkvzk9u_-lre_fbwrho8q93ttjmn_image-insert-palette.gif)
 
+
+
 ------
+
+
 
 ### 3. 깃북 &lt;&gt; 깃헙 연동 
 
@@ -75,13 +105,7 @@
 
 깃헙 &gt; 깃북 연동을 하면 Image block 형식으로 저장이 된다.
 
-
-
-## 
-
-## 
-
-
+-----
 
 ## 깃북아, 버젼 관리는 어떻게  
 
@@ -124,6 +148,10 @@ My Tip : variant 생성 후 variant 설정에 slug 라는 항목이 있는데 �
 두 가지 방식이 있는데 **어떤 브랜치**에서 수행지 선택 하고 첫 Sync를 **깃헙 &gt; 깃북** 인지, **깃북 &gt; 깃헙** 인지 선택해야 한다.
 
 ![](.gitbook/assets/image%20%284%29.png)
+
+
+
+-----
 
 
 
