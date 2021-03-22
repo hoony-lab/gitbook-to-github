@@ -1,10 +1,5 @@
 # README
 
-{% embed url="https://docs.gitbook.com/editing-content/rich-content" %}
-
-
-
-
 
 * With the [command palette](): choose among our rich content options and bring some life to your documentation.
   * The most common type of images is an "image block". They are full-width images containing a caption. You can center or align them to the left. You can insert them like this:
